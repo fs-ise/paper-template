@@ -35,5 +35,5 @@ header-includes:
 # References
 
 <!--
-\hl{Highlights}
+https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.07.markdown.html#papers-theses-and-books
 -->
