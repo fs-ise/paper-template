@@ -1,0 +1,22 @@
+---
+title: Data work
+authors:
+  - name: Gerit Wagner
+    affiliation: Frankfurt School of Finance & Management
+    roles: writing
+    corresponding: true
+---
+
+## Abstract
+
+## Introduction
+
+## Background
+
+This is a simple placeholder for the manuscript's main document [@knuth84].
+
+## Methodology
+
+## Findings
+
+## Discussion
